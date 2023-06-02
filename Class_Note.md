@@ -1,6 +1,8 @@
 # Rythem
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/db164a81-ccdd-4cc9-9e0c-9a8b7807d354)
+
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/43d01a91-c474-4a10-a086-cffaa9517dd2)
+
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/08b73440-d227-4372-9fe3-c0616c0083cb)
 
 # Strumming Pattern
