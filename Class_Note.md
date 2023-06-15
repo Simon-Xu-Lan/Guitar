@@ -14,5 +14,12 @@
 
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/cfd26a54-7d4e-4be5-964a-ffa5beb52595)
 
+- 4种吉他很重要的刷法，一定要会, 9 分钟，30 秒
+https://www.youtube.com/watch?v=U_uLDd4Kt1U
+
+- 1/4拍分解出来的rhythm
+
+
+![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/6f4cb90d-60c8-4383-bf40-b00079a9ca5e)
 
 
