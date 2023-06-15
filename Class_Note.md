@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 - 重音在第二，4拍
 
 # C Major Scale
+## Pattern 1
 ### X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4 (second position)
 - X: 不弹
 - - ： 向下滑 1 品， 后面就不回去了
@@ -43,9 +44,21 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 3. 制造音乐
 
 #### 往上滑2品 就是 D Major Scale, .... F Major Scale
-#### 大拇指和中指在一个位置
+#### 大拇指和中指在一个位置, 大拇指跟着种植一起滑， 
+#### 往上滑时， 把手指3放掉，用手指1往上滑
 
-- 
+## Pattern 2
+### Second Position
+### 2 4, 1 2 4, 1 3 4, 1 3 4, 2 4, 1 2
+
+## Pattern 3
+### Second Position
+### 4, 1 3 4, 1 3, b1 - 1 3, 1 2 4, 1 3 4
+
+## Pattern 4
+### Second Position
+### X, 4, 1 3 4, 1 3, 1 2 4, 1 2 4 = 1 3 4
+
 
 
 
