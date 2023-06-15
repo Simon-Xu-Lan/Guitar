@@ -30,6 +30,22 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/43eb6a95-e1d4-42c4-9aa2-6ea381e7c7c2)
 
-- 重音在第二，4拍 
+- 重音在第二，4拍
+
+# C Major Scale
+### X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4 (second position)
+- X: 不弹
+- - ： 向下滑 1 品， 后面就不回去了
+
+#### 为什么弹音阶
+1. 训练手指
+2. 了解指板
+3. 制造音乐
+
+#### 往上滑2品 就是 D Major Scale, .... F Major Scale
+#### 大拇指和中指在一个位置
+
+- 
+
 
 
