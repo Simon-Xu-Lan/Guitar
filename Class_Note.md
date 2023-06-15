@@ -19,7 +19,17 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 
 - 1/4拍分解出来的rhythm
 
+1. ---
+2. 前面3个
+3. 前面2个和最后一个
+4. ---
 
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/6f4cb90d-60c8-4383-bf40-b00079a9ca5e)
+
+![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/376bb13e-249b-4c92-b85e-819b66fa3c6e)
+
+![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/43eb6a95-e1d4-42c4-9aa2-6ea381e7c7c2)
+
+- 重音在第二，4拍 
 
 
