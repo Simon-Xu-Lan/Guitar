@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 # C Major Scale
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/26de7ab8-82e8-4649-b8d8-8e913ea43a39)
 
+<details><summary><h2>Pattern 1(2nd Position):  X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4</h2></summary>
 ## Pattern 1
 ### X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4 (second position)
 - X: 不弹
@@ -44,10 +45,12 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 1. 训练手指
 2. 了解指板
 3. 制造音乐
-
 #### 往上滑2品 就是 D Major Scale, .... F Major Scale
 #### 大拇指和中指在一个位置, 大拇指跟着种植一起滑， 
 #### 往上滑时， 把手指3放掉，用手指1往上滑
+
+</details>
+
 
 ## Pattern 2
 ### Second Position
