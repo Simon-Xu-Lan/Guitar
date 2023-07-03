@@ -36,10 +36,8 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/26de7ab8-82e8-4649-b8d8-8e913ea43a39)
 
 <details><summary><h2>Pattern 1(2nd Position):  X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4</h2></summary>
-## Pattern 1
-### X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4 (second position)
 - X: 不弹
-- - ： 向下滑 1 品， 后面就不回去了
+- "-" ： 向下滑 1 品， 后面就不回去了
 
 #### 为什么弹音阶
 1. 训练手指
