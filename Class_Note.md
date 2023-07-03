@@ -49,18 +49,22 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 
 </details>
 
+<details><summary><h2>Pattern 2 (2nd Position):  2 4, 1 2 4, 1 3 4, 1 3 4, 2 4, 1 2 </h2></summary>
+- 2nd position: G Major
+- 7th Position: C Major
+</details>
 
-## Pattern 2
-### Second Position
-### 2 4, 1 2 4, 1 3 4, 1 3 4, 2 4, 1 2
+<details><summary><h2>Pattern 3 (2nd Position):  4, 1 3 4, 1 3, b1 - 1 3, 1 2 4, 1 3 4 </h2></summary>
+- b: 降半调
+- 2nd position: A Major
+- 5th position: C Major
+</details>
 
-## Pattern 3
-### Second Position
-### 4, 1 3 4, 1 3, b1 - 1 3, 1 2 4, 1 3 4
+<details><summary><h2>Pattern 4 (2nd Position):  X, 4, 1 3 4, 1 3, 1 2 4, 1 2 4 = 1 3 4 </h2></summary>
+- =: 向下滑 2 品， 后面就不回去了
+- 2nd position: D Major
+- First position: C Major
 
-## Pattern 4
-### Second Position
-### X, 4, 1 3 4, 1 3, 1 2 4, 1 2 4 = 1 3 4
 
 
 
