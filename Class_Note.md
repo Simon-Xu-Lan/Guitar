@@ -51,6 +51,7 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 
 <details><summary><h2>Pattern 2 (2nd Position):  2 4, 1 2 4, 1 3 4, 1 3 4, 2 4, 1 2 </h2></summary>
 - 2nd position: G Major
+  - G A B C D E F#
 - 7th Position: C Major
 </details>
 
