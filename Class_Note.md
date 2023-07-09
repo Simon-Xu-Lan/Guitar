@@ -1,4 +1,4 @@
-# Rythem
+<details><summary><h1>Rythem</h1></summary>
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/db164a81-ccdd-4cc9-9e0c-9a8b7807d354)
 
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/43d01a91-c474-4a10-a086-cffaa9517dd2)
@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 
 - 重音在第二，4拍
 
+</details>
+
 # C Major Scale
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/26de7ab8-82e8-4649-b8d8-8e913ea43a39)
 
@@ -59,7 +61,8 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 </details>
 
 <details><summary><h2>Pattern 3 (2nd Position):  4, 1 3 4, 1 3, b1 - 1 3, 1 2 4, 1 3 4 </h2></summary>
-    
+
+- b1: 向上滑一品
 - 2nd position: A Major
   - A B C# D E F# G# A
   
