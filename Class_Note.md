@@ -59,9 +59,12 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 </details>
 
 <details><summary><h2>Pattern 3 (2nd Position):  4, 1 3 4, 1 3, b1 - 1 3, 1 2 4, 1 3 4 </h2></summary>
-- b: 降半调
+    
 - 2nd position: A Major
+  - A B C# D E F# G# A
+  
 - 5th position: C Major
+  
 </details>
 
 <details><summary><h2>Pattern 4 (2nd Position):  X, 4, 1 3 4, 1 3, 1 2 4, 1 2 4 = 1 3 4 </h2></summary>
