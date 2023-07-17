@@ -78,6 +78,8 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 - First position: C Major
 
 
+C G E major scale
+
 
 
 
