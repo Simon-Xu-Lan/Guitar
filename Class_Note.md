@@ -72,10 +72,13 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 </details>
 
 <details><summary><h2>Pattern 4 (2nd Position):  X, 4, 1 3 4, 1 3, 1 2 4, 1 2 4 = 1 3 4 </h2></summary>
+  
 - =: 向下滑 2 品， 后面就不回去了
 - 2nd position: D Major
   - D E F# G A B C# 
 - First position: C Major
+
+</details>
 
 
 C G E major scale
