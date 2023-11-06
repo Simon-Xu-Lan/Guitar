@@ -88,6 +88,9 @@ C G E major scale
 - 1  5  6  3  4  1  2  5
 - C  G  Am Em F  C  Dm G
 
+| 1 | 5 | 6 | 3 | 4 | 1 | 2 | 5 |
+| C | G | Am | Em | F | C | Dm | G |
+
 
 
 
