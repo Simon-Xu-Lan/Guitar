@@ -83,10 +83,10 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 
 C G E major scale
 
-Assignment
-3 times, 1 week
-1 5 6  3  4 1 2  5
-C G Am Em F C Dm G
+### Assignment
+- 3 times, 1 week
+- 1  5  6  3  4  1  2  5
+- C  G  Am Em F  C  Dm G
 
 
 
