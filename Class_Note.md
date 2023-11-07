@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 </details>
 
 <details><summary><h2>Pattern (1st Position): X, 3, 0 2 3, 0 2, 0 1 3, 0 1 3 = 1 3 4 </h2></summary>
-  ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/32ad47bd-8bb1-4523-8ec0-aebb90a4128b)
+<img width="800" alt="image" src="https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/32ad47bd-8bb1-4523-8ec0-aebb90a4128b">
 
 
 </details>
