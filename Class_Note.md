@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 ![image](https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/26de7ab8-82e8-4649-b8d8-8e913ea43a39)
 </details>
 
-<details><summary><h2>Pattern (1st Position): X, 3, 0 2 3, 0 2, 0 1 3, 0 1 3 5 7 8 </h2></summary>
+<details><summary><h2>Pattern (1st Position): X, 3, 0 2 3, 0 2, 0 1 3, 0 1 3 = 1 3 4 </h2></summary>
 </details>
 
 <details><summary><h2>Pattern 1(2nd Position):  X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4</h2></summary>
