@@ -39,11 +39,11 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 </details>
 
 
-<details><summary><h2>Pattern (1st Position): X, 3, 0 2 3, 0 2, 0 1 3, 0 1 3 = 1 3 4 </h2></summary>
+<details><summary><h2>Pattern C major (1st Position): X, 3, 0 2 3, 0 2, 0 1 3, 0 1 3 = 1 3 4 </h2></summary>
 <img width="800" alt="image" src="https://github.com/Simon-Xu-Lan/Guitar/assets/60492659/32ad47bd-8bb1-4523-8ec0-aebb90a4128b">
 </details>
 
-<details><summary><h2>Pattern 1(2nd Position):  X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4</h2></summary>
+<details><summary><h2>Pattern 1 C major(2nd Position):  X, 2 4, 1 2 4, 1 3 - 1 3, 1 2 4, 1 3 4</h2></summary>
 - X: 不弹
 - "-" ： 向下滑 1 品， 后面就不回去了
 
@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=U_uLDd4Kt1U
 
 </details>
 
-<details><summary><h2>Pattern 2 (2nd Position):  2 4, 1 2 4, 1 3 4, 1 3 4, 2 4, 1 2 </h2></summary>
+<details><summary><h2>Pattern 2, G Major(2nd Position):  2 4, 1 2 4, 1 3 4, 1 3 4, 2 4, 1 2 </h2></summary>
   
 - 2nd position: G Major
 
